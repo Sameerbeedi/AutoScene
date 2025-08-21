@@ -110,11 +110,3 @@ AutoScene is a Python-based toolkit for 3D scene reconstruction and building seg
        python Combined/combined.py
        ```
 
-## Usage
-- Modify the input files in the `input/` directory as needed.
-- Adjust parameters in the scripts for custom processing.
-
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
